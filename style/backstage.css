@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+#container{width: 1000px; margin: 0 auto; border:1px solid #DDDDDD; height:750px; margin-top:20px}
+#content{margin-top: 5px; width:100%; margin-top:10px}
+
+.admin #menu{
+	border:1px solid #DDDDDD;
+	width: 200px;
+	float: left;
+	margin-bottom:5px;
+	padding-left:30px;
+	border-left:#FFF;
+	height:600px;
+	
+}
+.book-list-tbl td{
+	line-height:10px;}
+
+.admin #formTab{
+	width: 790px;
+	float: right;
+	margin-bottom:5px;
+	border:1px solid #DDDDDD;
+	height:600px;
+
+}
+
+.update-user-tbl{
+	margin:0 auto;
+	border:none;
+}
+.update-user-tbl label{
+	font-size:16px;
+}
+
+.update-user-tbl tr td{
+	padding:0px;
+	line-height:70px;
+}
+
+.update-user-tbl tr td input{
+	margin:0px;
+}
+
+#nav{
+	margin-top:10px;
+}
+
+#add{
+	clear:both;
+}
+	
+#clock{
+	clear:both;
+	width:1000px;
+}
+
+.error{
+	color:red;
+}
+
+.update-book-tbl {
+	border:none;
+	margin:0 auto;	
+	}
+.update-book-tbl tr td{
+		padding:0px;
+		line-height:70px;
+		border:none;
+	}
+	
+.update-book-tbl tr td input{
+	margin:0px;
+	}
+	
+.update-book-tbl label{
+	font-size:16px;	
+	}
